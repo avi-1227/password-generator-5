@@ -7,7 +7,7 @@ This is a simple password generator implemented in Python. The script generates 
 ## Features
 
 - Generates random passwords with customizable length.
-- Allows users to include uppercase letters, lowercase letters, numbers, and special characters in the passwords.
+- Allows users to include letters, numbers, and special characters in the passwords.
 - Easy-to-use command-line interface.
 
 ## Getting Started
